@@ -3,3 +3,4 @@ torchvision
 streamlit
 joblib
 tensorflow
+flask
